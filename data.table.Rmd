@@ -1,6 +1,6 @@
 ---
 title: "data.table 패키지 소개"
-author: "yujin"
+author: "Yujin Lee"
 date: '2022 1 6 '
 output:
   html_document:
