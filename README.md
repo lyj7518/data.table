@@ -1,2 +1,4 @@
 # data.table 패키지 소개
-### 강의안 웹페이지 https://lyj7518.github.io/data.table/data.table
+### R data.table 패키지 강의안 자료입니다. 
+
+> https://lyj7518.github.io/data.table/data.table
